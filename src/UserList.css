@@ -1,0 +1,29 @@
+.classUser {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin: 40px;
+}
+.classna {
+  display: flex;
+  margin-left: 2px;
+  align-items: center;
+}
+.classna h3{
+  margin: 5px;
+}
+.classna h4{
+  margin: 5px;
+}
+.classStreet {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.classkey {
+  border-style: solid;
+  border-width: 5px;
+  margin: 5px;
+  width: 30%;
+  border-color: rgb(233, 138, 14);
+}
